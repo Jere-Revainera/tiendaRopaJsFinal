@@ -1,0 +1,33 @@
+[
+    {
+        "producto": "Remera01",
+        "precio": "5000",
+        "image": "./img/remera.png"
+    },
+    {
+        "producto": "Remera02",
+        "precio": "5000",
+        "image": "./img/remera.png"
+    },
+    {
+        "producto": "Pantalon01",
+        "precio": "12000",
+        "image": "./img/pantalon.png"
+    },
+    {
+        "producto": "Pantalon02",
+        "precio": "12000",
+        "image": "./img/pantalon.png"
+    },
+    {
+        "producto": "Campera01",
+        "precio": "7000",
+        "image": "./img/campera.png"
+    },
+    {
+        "producto": "Campera02",
+        "precio": "7000",
+        "image": "./img/campera.png"
+    }
+
+]
